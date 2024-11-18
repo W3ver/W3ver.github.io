@@ -1,1 +1,1 @@
-<h1>Bonjour le Monde!</h1>
+<h2>Bonjour le Monde!</h2>

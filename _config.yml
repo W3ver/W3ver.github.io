@@ -1,28 +1,5 @@
----
-title: "CV - Mathieu Simon"
-email: mathsim2000@gmail.com
-description: "Recherche de stage en analyse de données"
-baseurl: ""
-url: "http://example.com"
-
-theme: minimal-mistakes-jekyll
-
-# Navigation
-header_pages:
-  - _pages/cv.md
-
-plugins:
-  - jekyll-seo-tag
-
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "single"
-
-# Build settings
-markdown: kramdown
-kramdown:
-  input: GFM
----
+title: Mon Portfolio
+description: Documentation du Portfolio
+theme: jekyll-theme-cayman  # Vous pouvez choisir un autre thème
+markdown: kramdown  # Utilisez kramdown pour une meilleure gestion du markdown
+paginate: 5  # Pagination de 5 éléments par page

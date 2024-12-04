@@ -1,76 +1,74 @@
 ---
 layout: default
-title: Mon Portfolio
+title: CV - Mathieu Simon
 ---
 
-# Portfolio
+# CV - Mathieu Simon
 
-Bienvenue dans la documentation du portfolio.
+Bienvenue sur mon CV. Vous y trouverez mes informations personnelles, compétences, formations, et expériences.
 
 ## Présentation
-Ce document détaille la structure d'un portfolio en utilisant un diagramme basé sur Mermaid.
+Étudiant en 3ème année de BUT Science des Données, passionné par l'informatique, en particulier les systèmes d'informations géographiques, je suis à la recherche d'un stage en analyse de données pour la période d'avril à juillet 2025.
 
-## Structure
-
-### Portfolio
-Le **Portfolio** contient :
-- [Page](#page)
-- [Projet](#projet)
-- [CV](#cv)
-- [Badge](#badge)
-
-### Page
-Une page du portfolio, contenant des informations spécifiques.
-
-### Projet
-Une section dédiée aux projets, incluant description et lien.
-
-### CV
-
-#### Informations Personnelles
-- **Email** : [jean-antoine.gimenez@etudiant.univ-perp.fr](mailto:jean-antoine.gimenez@etudiant.univ-perp.fr)
-- **Téléphone** : 
-- **Adresse** : 
-- **Mobilité** : Aude
-- **Âge** : 20 ans
-- **Permis** : A2, B
+## Informations Personnelles
+- **Email** : [mathsim2000@gmail.com](mailto:mathsim2000@gmail.com)
+- **Téléphone** : 07 81 89 23 94
+- **Adresse** : 46 Route Minervoise, 11000 Carcassonne
+- **Date de naissance** : 23/11/2000
 - **Véhicule personnel**
 
-#### Compétences
-##### Base de données
-- Extraction, nettoyage et gestion de BDD
-- Requêtes SQL et création de tableaux de bord
-- Automatisation de collecte de données sous BDD
+## Compétences
+### Programmation
+- **Langages** : Python, SQL, R, HTML/PHP
+- **Logiciels** : 
+  - FME, Power BI, RShiny, PostgreSQL
+  - ArcGIS, Microsoft Office 365 (Excel, Access, Word, PowerPoint)
 
-##### Statistique
-- Conduite d’études statistiques
-- Analyse et communication des résultats
-- Conception de questionnaires
+### Statistiques et Analyse
+- Analyse et traitement de données
+- Création de tableaux de bord interactifs
+- Automatisation de collectes de données pour les SIG
 
-##### Programmation
-- **Langages** : Python, SQL/PLSQL, R, SAS, HTML/CSS, JavaScript, PHP, SVG
-- **Logiciels** : Sphinx, Microsoft Office (Excel, Access, PowerPoint, Power BI), ArcGIS, QGIS, FME, pgAdmin
-
-#### Formations
-- **BUT Science des Données (SD)**
-  *Université de Perpignan, depuis septembre 2022*
-- **Baccalauréat général**
-  *Lycée Ernest Ferroul, 2022*  
-  Mention Bien | Mathématiques, Numérique Science Informatique, Mathématiques expertes
-
-#### Expériences et Projets
-- **Création d'une application web GPS** *(Octobre 2023 à janvier 2024 - IUT Carcassonne)*
-  - Application web avec gestion de compte personnel
-  - Visualisation cartographique (SIG), itinéraires, et points de repère
-
-#### Langues
+### Langues
 - **Anglais** : B2
 - **Espagnol** : B1
 
-#### Centres d'Intérêt
-- **Caisse à savon** : Construction et course de véhicules sans moteur
+### Savoir-être
+- Sens du service
+- Rigoureux
+- Esprit d'équipe
 
-*Site web basé sur un thème Hacker.*
+## Formations
+- **Bachelor Universitaire de Technologie Science des Données (BUT SD)**  
+  *IUT de Carcassonne, depuis septembre 2022*  
+  Parcours : Visualisation et Conception d'Outils Décisionnels (VCOD)
 
-## Badge
-Une section pour les fichiers associés aux certifications et badges.
+- **Baccalauréat Scientifique**  
+  *Lycée Joseph Saverne, 2018*  
+  Spécialité Mathématiques
+
+## Expériences et Projets
+- **Développement d'un composant décisionnel**  
+  *IUT Perpignan (2024)*  
+  - Valorisation d'une production dans un contexte professionnel
+  - Traitement de données à des fins décisionnelles
+
+- **Collecte automatisée de données web pour le SIG**  
+  *IUT Perpignan (2023-2024)*  
+  - Création d'un site en HTML pour une liste d'itinéraires géographiques
+  - Stockage d'informations dans une base de données MySQL
+  - API en PHP pour récupérer et renvoyer les données en format JSON
+
+- **Développement d'une application et d'une base de données pour une association**  
+  *Epi'Campus (2023)*  
+  - Conception d'une base de données (PostgreSQL) pour la gestion des stocks et de la trésorerie
+  - Création d'une application HTML/PHP pour visualiser et modifier ces données
+
+## Centres d'Intérêt
+- **Cinéma**  
+- **Musculation**  
+- **Sports**
+
+---
+
+*Ce document a été généré en utilisant un thème moderne de Jekyll.*  

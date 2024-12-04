@@ -1,8 +1,3 @@
----
-layout: default
-title: CV - Mathieu Simon
----
-
 # CV - Mathieu Simon
 
 Bienvenue sur mon CV. Vous y trouverez mes informations personnelles, compétences, formations, et expériences.

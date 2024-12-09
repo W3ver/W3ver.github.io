@@ -66,4 +66,4 @@ Bienvenue sur mon CV. Vous y trouverez mes informations personnelles, compétenc
 
 ---
 
-*Ce document a été généré en utilisant un thème moderne de Jekyll.*  
+*Ce document a été généré en utilisant un thème jekyll-theme-time-machine de Jekyll.*  
